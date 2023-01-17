@@ -1,4 +1,4 @@
-# Multimodal-recurrence-scoring-system-for-prediction-of-ccRCC-outcome
+# Multimodal-recurrence-scoring-system-for-prediction-of-clear-cell-renal-cell-carcinoma-outcome
 Deep learning for prediction of clear cell renal cell carcinoma outcome.
 
 
